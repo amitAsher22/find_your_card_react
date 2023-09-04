@@ -3,7 +3,7 @@
 
 
 
- :triangular_flag_on_post: <a href="(https://poetic-lollipop-816f9a.netlify.app/)" target="_blank">The Website</a>
+ :triangular_flag_on_post: <a href="https://poetic-lollipop-816f9a.netlify.app/" target="_blank">The Website</a>
 
 let's see what react js actually is And I used : 
 - *React* is a *JavaScript* library for building user-friendly interfaces.
