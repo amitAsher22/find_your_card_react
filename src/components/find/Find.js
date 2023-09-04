@@ -1,5 +1,5 @@
 import React from "react";
-import "../find/FindStyle.css";
+import "../find/findStyle.css";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Scrollbar } from "swiper/modules";
